@@ -42,11 +42,15 @@ I learn best by **building real-world projects** and exploring new technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srabonydevy&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabonydevy&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srabonydevy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonydevy&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabonydevy&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonydevy&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
