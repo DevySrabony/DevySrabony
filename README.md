@@ -49,7 +49,7 @@ I learn best by doing — solving real problems with clean, scalable code.
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-%40srabonydevy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/GitHub-%40devysrabony-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   <img src="https://img.shields.io/github/followers/srabonydevy?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/srabonydevy?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Public%20Repos-See%20Below-informational?style=for-the-badge&logo=github" alt="Public Repos" />
