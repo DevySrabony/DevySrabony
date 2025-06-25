@@ -15,7 +15,6 @@ I learn best by **building real-world projects** and exploring new technologies.
 
 ### 🔭 Currently:
 - 🌍 Exploring **Next.js**
-- 🏝️ Building a **Tourism website**
 - 🚗 Developing a **Car Rental App**
 - 📚 Learning **JWT & secure backend authentication**
 
@@ -42,15 +41,18 @@ I learn best by **building real-world projects** and exploring new technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srabonydevy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- Total Commits (Last Year) -->
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Commits%20(last%2012%20months)&query=%24.totalCommits&url=https%3A%2F%2Fgist.githubusercontent.com%2Fsrabonydevy%2Ff8e7e3297e4a0e8e0a1a5713ed2c8fdd%2Fraw%2Fgh-activity.json&style=for-the-badge" alt="Total Commits" />
+
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/srabonydevy?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/srabonydevy?label=Stars&style=for-the-badge" alt="GitHub Stars" />
+
+  <!-- Public Repos -->
+  <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsrabonydevy&style=for-the-badge" alt="Public Repos" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabonydevy&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonydevy&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 
